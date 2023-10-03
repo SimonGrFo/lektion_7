@@ -10,12 +10,15 @@ public interface Animal {
     // TODO _ SUPER IMPORTANT: private vid/mod
 
     // abstract method
+    void name();
     void move();
     void eat();
     void sleep();
     void makeSound();
 
     // default
-    default void test() {}
+    default void typeOfAnimal(String typeOfAnimal) {
+        System.out.println(typeOfAnimal);
+    }
 
 }

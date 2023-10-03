@@ -2,6 +2,11 @@ package com.simon.lektion_7.models;
 
 public class Dog implements Animal{
     @Override
+    public void name() {
+        System.out.println("Dog");
+    }
+
+    @Override
     public void move() {
         System.out.println("Hovers 20 centimeters off the ground");
     }

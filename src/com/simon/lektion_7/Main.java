@@ -10,15 +10,19 @@ public class Main {
         Cat kasper = new Cat();
         Dog dog = new Dog();
 
+        kasper.name();
         kasper.eat();
         kasper.move();
         kasper.sleep();
         kasper.makeSound();
+        kasper.typeOfAnimal("cat");
 
+        dog.name();
         dog.eat();
         dog.move();
         dog.sleep();
         dog.makeSound();
+        dog.typeOfAnimal("dog");
 
 
 

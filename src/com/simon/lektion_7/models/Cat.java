@@ -3,6 +3,11 @@ package com.simon.lektion_7.models;
 public class Cat implements Animal{
 
     @Override
+    public void name() {
+        System.out.println("Kasper");
+    }
+
+    @Override
     public void move() {
         System.out.println("jumps around");
 

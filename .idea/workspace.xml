@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/dog.java" afterDir="false" />
+    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="0.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1696318160020</updated>
     </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <option name="closed" value="true" />
+      <created>1696322757185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696322757185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
   </component>
 </project>
