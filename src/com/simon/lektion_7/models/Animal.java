@@ -5,9 +5,8 @@ package com.simon.lektion_7.models;
 // uses keyword implements
 public interface Animal {
 
-    // TODO - give relevant names
-    // TODO - Implement inheritance
-    // TODO _ SUPER IMPORTANT: private vid/mod
+    // TODO - SUPER IMPORTANT private vis/mod
+    // TODO - errors?
 
     // abstract method
     void name();

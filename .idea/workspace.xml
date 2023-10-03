@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="0.1">
+    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="0.2">
+      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/AAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Squirrel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,12 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696322757185</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0.2">
+      <option name="closed" value="true" />
+      <created>1696323447712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323447712</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+    <MESSAGE value="0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2" />
   </component>
 </project>
