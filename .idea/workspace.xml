@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="0.2">
-      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/AAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Squirrel.java" afterDir="false" />
+    <list default="true" id="6bb9722c-29ff-4d3b-9d6a-2db61f2d2ebb" name="Changes" comment="0.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/AAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/AAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/lektion_7/models/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SimonGrFo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="414982d7-6ac1-4b3a-b2ea-202773d9b0a2" />
+        <option name="url" value="https://github.com/SimonGrFo/lektion_7.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -70,13 +83,30 @@
       <option name="project" value="LOCAL" />
       <updated>1696323447712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0.3">
+      <option name="closed" value="true" />
+      <created>1696325877786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696325877786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0.3">
+      <option name="closed" value="true" />
+      <created>1696325969175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696325969175</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="0.1" />
     <MESSAGE value="0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2" />
+    <MESSAGE value="0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.3" />
   </component>
 </project>
